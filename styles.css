@@ -104,6 +104,12 @@ header .profile-image:hover {
   border-radius: 6px;
   transition: all .5s;
 }
+
+.foto {
+  max-width: 500px;
+  border-radius: 5%;
+}
+
 .card:hover {
   border-color: #5d8d69;
 }

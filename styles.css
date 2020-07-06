@@ -105,6 +105,17 @@ header .profile-image:hover {
   transition: all .5s;
 }
 
+.card-wide {
+  margin: 20px;
+  padding: 20px 40px 40px;
+  max-width: 1200px;
+  text-align: left;
+  background: #fff;
+  border-bottom: 4px solid #ccc;
+  border-radius: 6px;
+  transition: all .5s;
+}
+
 .foto {
   max-width: 500px;
   border-radius: 5%;
@@ -112,6 +123,10 @@ header .profile-image:hover {
 
 .card:hover {
   border-color: #5d8d69;
+}
+
+.workplace {
+  text-decoration: underline;
 }
 
 ul.skills {

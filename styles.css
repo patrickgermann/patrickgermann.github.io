@@ -126,7 +126,7 @@ header .profile-image:hover {
 }
 
 .workplace {
-  text-decoration: underline;
+  font-style: italic;
 }
 
 ul.skills {
